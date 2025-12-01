@@ -130,7 +130,7 @@ train_losses, val_losses = train_model(model, train_loader, test_loader, num_epo
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 
-<img width="743" height="639" alt="image" src="https://github.com/user-attachments/assets/693cb490-6e7a-4eb7-8bb8-73af950f3afc" />
+<img width="513" height="385" alt="image" src="https://github.com/user-attachments/assets/b15ae4e8-c5c1-4daa-826c-8d9a1fe8e203" />
 
 
 ### Confusion Matrix
