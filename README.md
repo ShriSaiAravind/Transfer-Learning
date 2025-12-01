@@ -135,15 +135,13 @@ train_losses, val_losses = train_model(model, train_loader, test_loader, num_epo
 
 ### Confusion Matrix
 
-<img width="728" height="506" alt="image" src="https://github.com/user-attachments/assets/aedeb4ed-9326-4769-b488-8ac99790cc84" />
-
+<img width="941" height="779" alt="image" src="https://github.com/user-attachments/assets/82e4ee12-36dc-44e4-b9d0-c245d124ab08" />
 
 
 
 ### Classification Report
 
-<img width="1204" height="504" alt="image" src="https://github.com/user-attachments/assets/57565fa0-371b-475b-87cc-6dfc5f492f89" />
-
+<img width="1311" height="550" alt="image" src="https://github.com/user-attachments/assets/886ae8b9-76ba-48a0-b26c-9fdaebbdf5af" />
 
 
 ### New Sample Prediction
